@@ -1,0 +1,8 @@
+﻿  C-modif.cpp
+graphics.lib(dibutil.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics.lib(dibutil.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics.lib(drawing.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics.lib(drawing.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics.lib(file.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics.lib(file.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics.lib(misc.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics.lib(misc.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics.lib(winbgi.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics.lib(winbgi.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+graphics.lib(winthread.obj) : warning LNK4099: 未找到 PDB“”(使用“graphics.lib(winthread.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+  Project1.vcxproj -> D:\Coding\Gongyehulian\Project1\Debug\Project1.exe
